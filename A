@@ -39,7 +39,7 @@ asdf(game.Workspace)
 local s = Instance.new("Sky")
 s.Name = "Sky"
 s.Parent = game.Lighting
-local skyboxID = 15705773225
+local skyboxID = 11905364
 s.SkyboxBk = "http://www.roblox.com/asset/?id="..skyboxID
 s.SkyboxDn = "http://www.roblox.com/asset/?id="..skyboxID
 s.SkyboxFt = "http://www.roblox.com/asset/?id="..skyboxID
